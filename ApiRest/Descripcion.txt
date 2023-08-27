@@ -1,0 +1,13 @@
+Este proyecto esta desarrollado en .net core 3.1
+cuenta con autenticacion con JWT (Json Web Token) para acceder a los diferentes controladores
+se conecta a la base de datos e implemente el uso de procedimientos almacenados 
+Usando un modelo de capas : 
+	-Presentación: esta capa queda expuesta al cliente para que acceda a los controles
+	-Dominio : esta capa se encarga de hacer toda la logica de dominio con los datos que recibe de la capa de Acceso a Datos y 
+				dejar los metodos accesibles para la capa de presentacion 
+	-Acceso a Datos: esta capa es la encargada de establecer la comunicacion con los datos en este caso con una base de datos
+					SQL Server y haciendo uso de un modelos para estructurar los datos
+	-Datos: esta capa contiene todos los modelos los cuales se utilizan en la capa de Acceso a Datos para manejar una extructura 
+Ademas cuanta con unas bibliotecas de personalizacion en las cuales estan definidos los diferentes datos que puede contener el Token
+y metodos por los cuales se verifica la validez de un token
+https://docs.microsoft.com/es-es/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures

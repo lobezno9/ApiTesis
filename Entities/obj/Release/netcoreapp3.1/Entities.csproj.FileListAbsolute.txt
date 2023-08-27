@@ -1,0 +1,10 @@
+D:\Desarrollos\Tesis\ApiProyecto\Entities\bin\Release\netcoreapp3.1\Entities.deps.json
+D:\Desarrollos\Tesis\ApiProyecto\Entities\bin\Release\netcoreapp3.1\Entities.dll
+D:\Desarrollos\Tesis\ApiProyecto\Entities\bin\Release\netcoreapp3.1\Entities.pdb
+D:\Desarrollos\Tesis\ApiProyecto\Entities\obj\Release\netcoreapp3.1\Entities.csproj.AssemblyReference.cache
+D:\Desarrollos\Tesis\ApiProyecto\Entities\obj\Release\netcoreapp3.1\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollos\Tesis\ApiProyecto\Entities\obj\Release\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+D:\Desarrollos\Tesis\ApiProyecto\Entities\obj\Release\netcoreapp3.1\Entities.AssemblyInfo.cs
+D:\Desarrollos\Tesis\ApiProyecto\Entities\obj\Release\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+D:\Desarrollos\Tesis\ApiProyecto\Entities\obj\Release\netcoreapp3.1\Entities.dll
+D:\Desarrollos\Tesis\ApiProyecto\Entities\obj\Release\netcoreapp3.1\Entities.pdb

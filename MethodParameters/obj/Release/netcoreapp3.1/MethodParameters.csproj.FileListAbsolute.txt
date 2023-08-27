@@ -1,0 +1,10 @@
+D:\Desarrollos\Tesis\ApiProyecto\MethodParameters\bin\Release\netcoreapp3.1\MethodParameters.deps.json
+D:\Desarrollos\Tesis\ApiProyecto\MethodParameters\bin\Release\netcoreapp3.1\MethodParameters.dll
+D:\Desarrollos\Tesis\ApiProyecto\MethodParameters\bin\Release\netcoreapp3.1\MethodParameters.pdb
+D:\Desarrollos\Tesis\ApiProyecto\MethodParameters\obj\Release\netcoreapp3.1\MethodParameters.csproj.AssemblyReference.cache
+D:\Desarrollos\Tesis\ApiProyecto\MethodParameters\obj\Release\netcoreapp3.1\MethodParameters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollos\Tesis\ApiProyecto\MethodParameters\obj\Release\netcoreapp3.1\MethodParameters.AssemblyInfoInputs.cache
+D:\Desarrollos\Tesis\ApiProyecto\MethodParameters\obj\Release\netcoreapp3.1\MethodParameters.AssemblyInfo.cs
+D:\Desarrollos\Tesis\ApiProyecto\MethodParameters\obj\Release\netcoreapp3.1\MethodParameters.csproj.CoreCompileInputs.cache
+D:\Desarrollos\Tesis\ApiProyecto\MethodParameters\obj\Release\netcoreapp3.1\MethodParameters.dll
+D:\Desarrollos\Tesis\ApiProyecto\MethodParameters\obj\Release\netcoreapp3.1\MethodParameters.pdb

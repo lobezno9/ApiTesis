@@ -1,0 +1,12 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using TokenHandler.Entities.BE;
+
+namespace TokenHandler.DataAccess.Interfaces
+{
+    public interface IExceptionLogRepository
+    {
+        void Add(ExceptionLogBE exceptionLogBE);
+    }
+}

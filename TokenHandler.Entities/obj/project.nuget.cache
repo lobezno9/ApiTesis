@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L7sqOISKUkl6zAHS4rVLodQITZQDbO4odc/1t65687p/5NveGAeDAdm/EMN3P84XylOEDpZ2gx6oTweTzr/+ZQ==",
+  "success": true,
+  "projectFilePath": "D:\\Desarrollos\\ProyectoTesis\\ApiTesis\\TokenHandler.Entities\\TokenHandler.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER CLICK\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

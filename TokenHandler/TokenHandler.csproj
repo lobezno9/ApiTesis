@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.3" />
+    <PackageReference Include="Microsoft.AspNetCore.Authorization" Version="3.1.3" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="3.1.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TokenHandler.Business\TokenHandler.Business.csproj" />
+    <ProjectReference Include="..\TokenHandler.DataAccess\TokenHandler.DataAccess.csproj" />
+    <ProjectReference Include="..\TokenHandler.Entities\TokenHandler.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

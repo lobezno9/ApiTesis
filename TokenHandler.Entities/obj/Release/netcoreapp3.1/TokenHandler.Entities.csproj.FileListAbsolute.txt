@@ -1,0 +1,10 @@
+D:\Desarrollos\Tesis\ApiProyecto\TokenHandler.Entities\bin\Release\netcoreapp3.1\TokenHandler.Entities.deps.json
+D:\Desarrollos\Tesis\ApiProyecto\TokenHandler.Entities\bin\Release\netcoreapp3.1\TokenHandler.Entities.dll
+D:\Desarrollos\Tesis\ApiProyecto\TokenHandler.Entities\bin\Release\netcoreapp3.1\TokenHandler.Entities.pdb
+D:\Desarrollos\Tesis\ApiProyecto\TokenHandler.Entities\obj\Release\netcoreapp3.1\TokenHandler.Entities.csproj.AssemblyReference.cache
+D:\Desarrollos\Tesis\ApiProyecto\TokenHandler.Entities\obj\Release\netcoreapp3.1\TokenHandler.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollos\Tesis\ApiProyecto\TokenHandler.Entities\obj\Release\netcoreapp3.1\TokenHandler.Entities.AssemblyInfoInputs.cache
+D:\Desarrollos\Tesis\ApiProyecto\TokenHandler.Entities\obj\Release\netcoreapp3.1\TokenHandler.Entities.AssemblyInfo.cs
+D:\Desarrollos\Tesis\ApiProyecto\TokenHandler.Entities\obj\Release\netcoreapp3.1\TokenHandler.Entities.csproj.CoreCompileInputs.cache
+D:\Desarrollos\Tesis\ApiProyecto\TokenHandler.Entities\obj\Release\netcoreapp3.1\TokenHandler.Entities.dll
+D:\Desarrollos\Tesis\ApiProyecto\TokenHandler.Entities\obj\Release\netcoreapp3.1\TokenHandler.Entities.pdb
