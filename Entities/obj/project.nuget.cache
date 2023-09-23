@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zjs1QweI6HvkLM3FDVSE17aNdmFVx+l5WFGxfPe+BHHFLKwOg4+TIF6THJ4zPK07af5KstCXbPFQQgg6PuUefQ==",
+  "dgSpecHash": "HekUmQiR/vO224sNnzVOdtfoiIvAwfpSPiZXHE3qMBzicTqmOJWkuUIS5Y6WsypSwrCUgEl1E69zSp9ukFFgiQ==",
   "success": true,
-  "projectFilePath": "D:\\Desarrollos\\ProyectoTesis\\ApiTesis\\Entities\\Entities.csproj",
+  "projectFilePath": "D:\\Desarrollos\\TESIS\\ApiTesis\\Entities\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

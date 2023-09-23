@@ -81,28 +81,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\USER CLICK\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\sebas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desarrollos\\ProyectoTesis\\ApiTesis\\Utilities\\Utilities.csproj",
+      "projectUniqueName": "D:\\Desarrollos\\TESIS\\ApiTesis\\Utilities\\Utilities.csproj",
       "projectName": "Utilities",
-      "projectPath": "D:\\Desarrollos\\ProyectoTesis\\ApiTesis\\Utilities\\Utilities.csproj",
-      "packagesPath": "C:\\Users\\USER CLICK\\.nuget\\packages\\",
-      "outputPath": "D:\\Desarrollos\\ProyectoTesis\\ApiTesis\\Utilities\\obj\\",
+      "projectPath": "D:\\Desarrollos\\TESIS\\ApiTesis\\Utilities\\Utilities.csproj",
+      "packagesPath": "C:\\Users\\sebas\\.nuget\\packages\\",
+      "outputPath": "D:\\Desarrollos\\TESIS\\ApiTesis\\Utilities\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\USER CLICK\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\sebas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -115,8 +107,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Desarrollos\\ProyectoTesis\\ApiTesis\\MethodParameters\\MethodParameters.csproj": {
-              "projectPath": "D:\\Desarrollos\\ProyectoTesis\\ApiTesis\\MethodParameters\\MethodParameters.csproj"
+            "D:\\Desarrollos\\TESIS\\ApiTesis\\MethodParameters\\MethodParameters.csproj": {
+              "projectPath": "D:\\Desarrollos\\TESIS\\ApiTesis\\MethodParameters\\MethodParameters.csproj"
             }
           }
         }
@@ -151,7 +143,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -2796,7 +2796,10 @@
         },
         "runtime": {
           "bin/placeholder/Business.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "Data/1.0.0": {
         "type": "project",
@@ -2865,7 +2868,10 @@
         },
         "runtime": {
           "bin/placeholder/TokenHandler.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "TokenHandler.Business/1.0.0": {
         "type": "project",
@@ -9224,28 +9230,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\USER CLICK\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\sebas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desarrollos\\ProyectoTesis\\ApiTesis\\ApiRest\\ApiRest.csproj",
+      "projectUniqueName": "D:\\Desarrollos\\TESIS\\ApiTesis\\ApiRest\\ApiRest.csproj",
       "projectName": "ApiRest",
-      "projectPath": "D:\\Desarrollos\\ProyectoTesis\\ApiTesis\\ApiRest\\ApiRest.csproj",
-      "packagesPath": "C:\\Users\\USER CLICK\\.nuget\\packages\\",
-      "outputPath": "D:\\Desarrollos\\ProyectoTesis\\ApiTesis\\ApiRest\\obj\\",
+      "projectPath": "D:\\Desarrollos\\TESIS\\ApiTesis\\ApiRest\\ApiRest.csproj",
+      "packagesPath": "C:\\Users\\sebas\\.nuget\\packages\\",
+      "outputPath": "D:\\Desarrollos\\TESIS\\ApiTesis\\ApiRest\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\USER CLICK\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\sebas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -9258,8 +9256,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Desarrollos\\ProyectoTesis\\ApiTesis\\Business\\Business.csproj": {
-              "projectPath": "D:\\Desarrollos\\ProyectoTesis\\ApiTesis\\Business\\Business.csproj"
+            "D:\\Desarrollos\\TESIS\\ApiTesis\\Business\\Business.csproj": {
+              "projectPath": "D:\\Desarrollos\\TESIS\\ApiTesis\\Business\\Business.csproj"
             }
           }
         }
@@ -9313,12 +9311,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.25, 3.1.25]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -9327,7 +9319,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
       }
     }
   }

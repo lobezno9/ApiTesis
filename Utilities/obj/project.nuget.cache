@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "MkWz3FHlQPosD7tOZAYqaqEGf9ydyjqFickT5D3pWd0cGNzwg6VMsWA7+wCh6tYCaWBAV7v78sFOtAubZjxQ2w==",
+  "dgSpecHash": "/Hpf/d9QOUaU8xBRBZuP77TVb3/MUjPd+J4WTyQI7GfBih5lanen3BnN6HVa/6meRT9mwgAiJn4YByL7/2VLQA==",
   "success": true,
-  "projectFilePath": "D:\\Desarrollos\\ProyectoTesis\\ApiTesis\\Utilities\\Utilities.csproj",
+  "projectFilePath": "D:\\Desarrollos\\TESIS\\ApiTesis\\Utilities\\Utilities.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\USER CLICK\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.3\\microsoft.extensions.configuration.abstractions.3.1.3.nupkg.sha512",
-    "C:\\Users\\USER CLICK\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.3\\microsoft.extensions.primitives.3.1.3.nupkg.sha512"
+    "C:\\Users\\sebas\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.3\\microsoft.extensions.configuration.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\sebas\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.3\\microsoft.extensions.primitives.3.1.3.nupkg.sha512"
   ],
   "logs": []
 }
